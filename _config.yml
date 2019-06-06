@@ -4,8 +4,8 @@ subtitle: captown.xyz
 email: hello@captown.xyz
 description: Captown xyz é um estilo de vida que compartilha boas músicas e bons conteudos sempre conectado para o futuro das conexões afetivas humanas.
 baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
-url: captwon.xyz
-author:
+url: "https://captown.xyz"
+author: captown
 street_address: Rua Francisco Rocha
 city: Curitiba
 state: PR
